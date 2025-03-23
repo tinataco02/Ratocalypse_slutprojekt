@@ -1,0 +1,5 @@
+C:/Users/chga1561/Desktop/Ratocalypse/Ratocalypse/Ratocalypse/.utmp/RelWithDebInfo/5r3lhe04/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/chga1561/Desktop/Ratocalypse/Ratocalypse/Ratocalypse/.utmp/RelWithDebInfo/5r3lhe04/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/chga1561/Desktop/Ratocalypse/Ratocalypse/Ratocalypse/.utmp/RelWithDebInfo/5r3lhe04/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/chga1561/Desktop/Ratocalypse/Ratocalypse/Ratocalypse/.utmp/RelWithDebInfo/5r3lhe04/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/chga1561/Desktop/Ratocalypse/Ratocalypse/Ratocalypse/.utmp/RelWithDebInfo/5r3lhe04/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,10 @@
+# ninja log v5
+177	1926	7635831060000000	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	c6d8ff5109b01604
+168	1931	7635831060000000	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	83e795494153165
+116	1934	7635831060000000	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	36d5271f00f89a00
+121	1935	7635831060000000	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	48b33d79a56b3b32
+112	1937	7635831060000000	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	74106da4510ef570
+197	1939	7635831060000000	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	87fb617b01c80443
+173	1941	7635831060000000	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	73d828c2e70b66c9
+107	1983	7635831060000000	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	e04a41efd692fe3a
+1984	2203	7635831053300000	D:/Ratocalypse/Ratocalypse/Ratocalypse/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5p2s6310/obj/arm64-v8a/libgame.so	14b033c47ed7a064
